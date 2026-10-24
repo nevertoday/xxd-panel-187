@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 187｜Archival Collage with Oversized Type: rebuilds a photo's subject as an archival collage poster — photo slices, semi-transparent layers, line outlines and structural diagrams — surrounded by drafting marks generated from the subject's own form (datum lines, dimension lines, arcs, axes, scales, coordinates). Behind it runs a set of oversized, restrained modern sans-serif letters partly hidden or cropped by the subject, paired with tiny archive notes and coordinates. Colours are cream paper, sand gold, bronze, smoky brown and ink black with old-paper grain, slight fading and translucent overlaps; the subject stays small in generous whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-187 or asks for archival, blueprint, photomontage or oversized-typography posters from a photo.",
+  "short_description": "巨型字体档案拼贴：把照片主体做成摄影切片与制图线稿的档案拼贴，背后压一组超大字体",
+  "zh-CN": {
+    "name": "巨型字体档案拼贴",
+    "tagline": "把照片主体做成摄影切片加制图线稿的档案拼贴，背后压一组超大字体。",
+    "look": "主体被做成摄影切片、半透明图像、线稿轮廓和结构图解的拼贴，可以是正立面、侧视、局部裁切或分层透叠。周围加少量按主体形状画出的制图线：基准线、尺寸线、圆弧、轴线、刻度和坐标点。背后是一组超大的现代无衬线字，部分被主体挡住或裁掉，旁边配极少的小字档案注释和坐标。颜色是米白纸色、沙金、古铜、烟褐、墨黑，带旧纸颗粒、轻微褪色和半透明叠色，主体偏小，留白很多。",
+    "traits": [
+      "摄影拼贴",
+      "制图线稿",
+      "超大字体",
+      "档案纸张",
+      "技术标记"
+    ],
+    "good": [
+      "结构清楚的建筑和构筑物：老房子立面、桥、塔、楼梯",
+      "造型分明的器物和交通工具：相机、椅子、老汽车、自行车",
+      "有历史感或地域感的地标和场所"
+    ],
+    "poor": [
+      "没有明确轮廓可以测量的照片：雾景、水面、抽象光影",
+      "想要干净无字的画面，因为超大字体是这一风格的骨架",
+      "想要鲜艳色彩、赛博界面、3D 渲染或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Archival Collage with Oversized Type",
+    "tagline": "Turns a photo's subject into an archival collage of photo slices and drafting lines over oversized type.",
+    "look": "The subject becomes a collage of photo slices, semi-transparent images, line-drawn outlines and structural diagrams, shown as a front elevation, a side view, a crop or layered see-through sections. A few drafting marks drawn from the subject's own shape surround it: datum lines, dimension lines, arcs, axes, scales and coordinate points. Behind it sits a set of oversized modern sans-serif letters, partly hidden or cut off by the subject, with only a few tiny archive notes and coordinates beside them. Colours are cream paper, sand gold, bronze, smoky brown and ink black, with old-paper grain, slight fading and translucent overlaps; the subject stays small and the whitespace large.",
+    "traits": [
+      "Photomontage",
+      "Drafting lines",
+      "Oversized type",
+      "Archive paper",
+      "Technical marks"
+    ],
+    "good": [
+      "Buildings and structures with clear form: an old facade, a bridge, a tower, a staircase",
+      "Objects and vehicles with a distinct shape: a camera, a chair, a vintage car, a bicycle",
+      "Landmarks and places with a sense of history or locality"
+    ],
+    "poor": [
+      "Photos with no clear outline to measure: fog, water surfaces, abstract light",
+      "Requests for a clean image with no lettering, since the oversized type is the backbone of this style",
+      "Requests for bright colour, a cyber interface look, 3D rendering or cartoons"
+    ]
+  },
+  "ja": {
+    "name": "大きな文字のアーカイブコラージュ",
+    "tagline": "写真の主役を写真の断片と製図線のアーカイブコラージュにし、背後に特大の文字を敷きます。",
+    "look": "主役は写真の断片、半透明の画像、線画の輪郭、構造図を組み合わせたコラージュになり、正面図、側面、部分の切り取り、層を透かした重ねとして見せます。周りには主役の形から引いた製図記号を少しだけ加えます。基準線、寸法線、円弧、軸線、目盛り、座標点などです。背後には特大の現代的なサンセリフ体が並び、一部は主役に隠れたり切れたりし、そばにごく小さなアーカイブ注記や座標を添えます。色は生成りの紙色、サンドゴールド、ブロンズ、スモークブラウン、墨黒で、古紙の粒子、軽い退色、半透明の重なりがあります。主役は小さく、余白はたっぷりです。",
+    "traits": [
+      "写真コラージュ",
+      "製図線",
+      "特大の文字",
+      "アーカイブの紙",
+      "技術的な記号"
+    ],
+    "good": [
+      "構造がはっきりした建物や構造物：古い建物の正面、橋、塔、階段",
+      "形のはっきりした道具や乗り物：カメラ、椅子、クラシックカー、自転車",
+      "歴史や土地の気配があるランドマークや場所"
+    ],
+    "poor": [
+      "測れるような輪郭がない写真：霧、水面、抽象的な光",
+      "文字のないすっきりした画面を求める場合（特大の文字がこのスタイルの骨格です）",
+      "鮮やかな色、サイバーな画面、3D レンダリング、漫画風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "대형 타이포 아카이브 콜라주",
+    "tagline": "사진의 주인공을 사진 조각과 제도선의 아카이브 콜라주로 만들고 뒤에 거대한 글자를 깝니다.",
+    "look": "주인공은 사진 조각, 반투명 이미지, 선화 윤곽, 구조 도해를 엮은 콜라주가 되며 정면도, 측면, 부분 크롭, 겹겹이 비치는 단면으로 보여 줍니다. 주변에는 주인공의 형태에서 끌어낸 제도 표시를 조금만 더합니다. 기준선, 치수선, 원호, 축선, 눈금, 좌표점 같은 것들입니다. 뒤에는 거대한 현대 산세리프 글자가 놓이고 일부는 주인공에 가려지거나 잘리며, 옆에 아주 작은 아카이브 주석과 좌표를 둡니다. 색은 크림 종이색, 샌드 골드, 청동, 스모크 브라운, 먹검정이고 오래된 종이의 입자, 약한 바램, 반투명 겹침이 있습니다. 주인공은 작고 여백은 넓습니다.",
+    "traits": [
+      "사진 콜라주",
+      "제도 선화",
+      "대형 타이포",
+      "아카이브 종이",
+      "기술 표시"
+    ],
+    "good": [
+      "구조가 분명한 건축물과 구조물: 오래된 건물 정면, 다리, 탑, 계단",
+      "형태가 뚜렷한 물건과 탈것: 카메라, 의자, 클래식 카, 자전거",
+      "역사나 지역의 분위기가 있는 랜드마크와 장소"
+    ],
+    "poor": [
+      "잴 만한 윤곽이 없는 사진: 안개, 수면, 추상적인 빛",
+      "글자 없는 깔끔한 화면을 원하는 경우(대형 글자가 이 스타일의 뼈대입니다)",
+      "선명한 색, 사이버 UI, 3D 렌더링, 만화풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج أرشيفي بحروف كبيرة",
+    "tagline": "يحوّل عنصر الصورة إلى كولاج أرشيفي من شرائح فوتوغرافية وخطوط هندسية فوق حروف ضخمة.",
+    "look": "يصبح العنصر كولاجاً من شرائح فوتوغرافية وصور شبه شفافة وحدود مرسومة بالخط ومخططات إنشائية، يُعرض بواجهة أمامية أو منظر جانبي أو قصّ جزئي أو مقاطع متراكبة شفافة. تحيط به علامات رسم هندسي قليلة مستمدة من شكله: خطوط مرجعية وخطوط أبعاد وأقواس ومحاور ومقاييس ونقاط إحداثيات. خلفه مجموعة من الحروف الحديثة غير المذيَّلة بحجم ضخم، يحجب العنصر بعضها أو يقتطعه، وإلى جانبها ملاحظات أرشيفية وإحداثيات قليلة بخط صغير جداً. الألوان ورق كريمي وذهبي رملي وبرونزي وبني دخاني وأسود حبري، مع حبيبات الورق القديم وبهتان خفيف وتراكبات شفافة؛ العنصر صغير والفراغ واسع.",
+    "traits": [
+      "مونتاج فوتوغرافي",
+      "خطوط هندسية",
+      "حروف ضخمة",
+      "ورق أرشيفي",
+      "علامات تقنية"
+    ],
+    "good": [
+      "مبانٍ ومنشآت واضحة البنية: واجهة بيت قديم، جسر، برج، درج",
+      "أدوات ومركبات مميزة الشكل: كاميرا، كرسي، سيارة قديمة، دراجة",
+      "معالم وأماكن فيها حس تاريخي أو محلي"
+    ],
+    "poor": [
+      "صور بلا حدود واضحة يمكن قياسها: الضباب، سطح الماء، الضوء المجرد",
+      "طلب صورة نظيفة بلا حروف، لأن الحروف الضخمة هي عماد هذا الأسلوب",
+      "طلب ألوان زاهية أو واجهة سيبرانية أو تصيير ثلاثي الأبعاد أو رسوم كرتونية"
+    ]
+  }
+}
